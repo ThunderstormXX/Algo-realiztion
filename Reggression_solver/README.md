@@ -24,4 +24,4 @@
   ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_3.png "Приближение многочленом : 0.08x^2 - 0.08x + 0.75 ")
 
 
-![Иллюстрация к проекту](https://github.com/ThunderstormXX/Algo-realiztion/raw/master/images/Figure_1.png)
+![image](https://user-images.githubusercontent.com/87493200/163991682-36e11756-c397-484f-a39f-ff7f2d4ac872.png)
