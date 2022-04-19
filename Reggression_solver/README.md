@@ -22,3 +22,6 @@
 3) n = 10 , k = 2
     Среднеквадратичная ошибка = 3.7
   ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_3.png "Приближение многочленом : 0.08x^2 - 0.08x + 0.75 ")
+
+
+![Иллюстрация к проекту](https://github.com/ThunderstormXX/Algo-realiztion/raw/Reggression_solver/images/Figure_1.png)
