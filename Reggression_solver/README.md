@@ -1,9 +1,9 @@
-##Апроксимация множества точек на графике ##
+## Апроксимация множества точек на графике ##
 
 По набору точек и желательной степени апроксимирующего многочлена 
 строит график , выводит в консоль многочлен , выводит среднеквадратичную ошибку.
 
-##Ввод и особенности работы ##
+## Ввод и особенности работы ##
 
 Пишем число точек n , максимальную степень многочлена k :
   1) Случай n < k + 1 : Степень многочлена больше чем нужно, достаточно меньшей степени
@@ -12,10 +12,13 @@
 
 Примеры :
 1)  n = 5 , k = 4 ( cлучай 2 )
-  ![alt tag](http://domain.com/path/to/img.png "Описание будет тут")
+    Среднеквадратичная ошибка = 0
+  ![alt tag]( https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_1.png "Приближение многочленом : 2.6x^4 -  30.4x^3 + 121.4x^2 - 193.6x + 102")
   
 2) n = 10 , k = 1
-  ![alt tag](http://domain.com/path/to/img.png "Описание будет тут")
+    Среднеквадратичная ошибка = 4.7
+  ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_2.png "Приближение многочленом :  0.8x - 0.1")
 
 3) n = 10 , k = 2
-  ![alt tag](http://domain.com/path/to/img.png "Описание будет тут")
+    Среднеквадратичная ошибка = 3.7
+  ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_3.png "Приближение многочленом : 0.08x^2 - 0.08x + 0.75 ")
