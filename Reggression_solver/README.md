@@ -13,15 +13,12 @@
 Примеры :
 1)  n = 5 , k = 4 ( cлучай 2 )
     Среднеквадратичная ошибка = 0
-  ![alt tag]( https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_1.png "Приближение многочленом : 2.6x^4 -  30.4x^3 + 121.4x^2 - 193.6x + 102")
-  
+    ![image](https://user-images.githubusercontent.com/87493200/163991830-93f03c19-e775-4045-b930-7500ca6de446.png "Приближение многочленом : 2.6x^4 -  30.4x^3 + 121.4x^2 - 193.6x + 102")
+
 2) n = 10 , k = 1
     Среднеквадратичная ошибка = 4.7
-  ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_2.png "Приближение многочленом :  0.8x - 0.1")
+    ![image](https://user-images.githubusercontent.com/87493200/163991879-d4b8d1c1-c013-49c9-8592-03dee815433f.png "Приближение многочленом :  0.8x - 0.1")
 
 3) n = 10 , k = 2
     Среднеквадратичная ошибка = 3.7
-  ![alt tag](https://github.com/ThunderstormXX/Algo-realiztion/tree/main/Reggression_solver/images/Figure_3.png "Приближение многочленом : 0.08x^2 - 0.08x + 0.75 ")
-
-
-![image](https://user-images.githubusercontent.com/87493200/163991682-36e11756-c397-484f-a39f-ff7f2d4ac872.png)
+    ![image](https://user-images.githubusercontent.com/87493200/163991950-513526ae-0f96-4fe3-a3d9-306bc1c37b65.png "Приближение многочленом : 0.08x^2 - 0.08x + 0.75 ")
